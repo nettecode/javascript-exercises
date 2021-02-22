@@ -22,5 +22,5 @@ function isEven() {
   /// ? 
 }
 
-// Skróć zapis wykorzystując arrow function
+// A teraz powyższą funkcję przepisz do postaci arrow function
 

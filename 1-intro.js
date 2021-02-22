@@ -10,12 +10,11 @@ console.log('Wiesz, gdzie to się pokaże?');
 
 // Wypisz na konsoli: 'Hello, World!'
 
-// Czy wiesz jak możesz przetestować działanie swojego kodu javascriptowego? Zarówno w środowisku przeglądarki jak i terminalu?
+// Czy wiesz jak możesz przetestować działanie swojego kodu javascriptowego? Zarówno w środowisku przeglądarki jak i terminalu (Node JS)?
 
 // Wiesz gdzie szukać Chrome Dev Tools?
 
-// Zadeklaruj zmienną x i przypisz jej wartość 5
-
+// Zadeklaruj zmienną x i przypisz jej wartość 5 
 
 // a teraz zmień wartość zmiennej x na 10
 
@@ -28,12 +27,12 @@ console.log('Wiesz, gdzie to się pokaże?');
 
 // Zadeklaruj zmienną z i przypisz do niej pustą tablicę
 
-// Dla poniższego kodu:
-const a = '10';
-const b = 2;
+// //  Dla poniższego kodu:
+// const a = '10';
+// const b = 2;
 
-const c = a + b;
-// Jaka będzie wartość c? 
+// const c = a + b;
+// // Jaka będzie wartość c? 
 
 // Jak sprawdzisz, czy znasz poprawną odpowiedź? 
 
